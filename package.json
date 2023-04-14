@@ -1,0 +1,24 @@
+{
+  "name": "cl-random-msg",
+  "version": "1.0.0",
+  "description": "random string en español CHILE - Pruebas para Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonnyZam/CL-random-msg"
+  },
+  "keywords": [],
+  "author": "Jonathan Zamora <jonathan.zamora12@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JonnyZam/CL-random-msg/issues"
+  },
+  "homepage": "https://github.com/JonnyZam/CL-random-msg#readme",
+  "bin": {
+    "CL-random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
