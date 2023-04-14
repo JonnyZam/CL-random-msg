@@ -14,7 +14,8 @@ const messages = [
     "Mensaje Entregado",
     "Grande Platzi",
     "Saludos desde CHILE",
-    "Prueba entrega mensaje Paquete npm - Platzi"
+    "Prueba entrega mensaje Paquete npm - Platzi",
+    "Inicio de Paquetes npm"
   ];
   
   const funnyCommit = () => {
