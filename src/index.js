@@ -11,6 +11,10 @@ const messages = [
     "Reinventing the wheel. Again.",
     "This is not the commit message you are looking for",
     "Batman! (this commit has no parents)",
+    "Mensaje Entregado",
+    "Grande Platzi",
+    "Saludos desde CHILE",
+    "Prueba entrega mensaje Paquete npm - Platzi"
   ];
   
   const funnyCommit = () => {
